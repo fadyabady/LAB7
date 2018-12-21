@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Main.c
+c:\users\user\desktop\lab7\lab7-2\source\main.c(26): warning C4566: character represented by universal-character-name '\u202A' cannot be represented in the current code page (1252)
+c:\users\user\desktop\lab7\lab7-2\source\main.c(38): warning C4477: 'fscanf_s' : format string '%1f' requires an argument of type 'float *', but variadic argument 1 has type 'double *'
+  c:\users\user\desktop\lab7\lab7-2\source\main.c(38): note: consider using '%lf' in the format string
+  LAB7-2.vcxproj -> C:\Users\User\Desktop\LAB7\LAB7-2\LAB7-2\LAB7-2\..\..\Temp\Debug\LAB7-2.exe

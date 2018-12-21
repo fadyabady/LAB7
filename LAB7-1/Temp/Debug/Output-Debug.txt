@@ -1,0 +1,24 @@
+﻿'LAB7-1.exe' (Win32): Loaded 'C:\Users\User\Desktop\LAB7\LAB7-1\Temp\Debug\LAB7-1.exe'. Symbols loaded.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\kernel32.dll'
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sysfer.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\advapi32.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\ProgramData\Symantec\Symantec Endpoint Protection\14.2.760.0000.105\Data\Definitions\BASHDefs\20180918.001\UMEngx86.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'LAB7-1.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+The thread 0x2714 has exited with code 0 (0x0).
+The thread 0x2330 has exited with code 0 (0x0).
+The thread 0x2270 has exited with code 0 (0x0).
+The thread 0x17c4 has exited with code 0 (0x0).
+The thread 0x1bcc has exited with code 0 (0x0).
+The program '[10628] LAB7-1.exe' has exited with code 0 (0x0).
